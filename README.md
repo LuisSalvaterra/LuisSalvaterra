@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisSalvaterra
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL and broadly data analytics with UA92
+- 🌱 I’m currently learning SQL, Excel and Power BI. I'm also currently enrolled in an intense data analytics course with UA92
 - 📫 How to reach me via luis.salvaterra231998@gmail.com
 
 Check out my latest projects, feedback would be greatly appreciated.
